@@ -7,7 +7,8 @@
       "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/textarea.tsx\")",
       "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/badge.tsx\")",
       "Bash(gh api *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Skill(claude-api)"
     ]
   }
 }
