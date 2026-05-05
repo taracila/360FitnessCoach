@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/examples/radix/chart-demo.tsx\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/card.tsx\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/button.tsx\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/textarea.tsx\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/registry/bases/radix/ui/badge.tsx\")",
+      "Bash(gh api *)",
+      "Bash(git *)"
+    ]
+  }
+}
